@@ -1,0 +1,27 @@
+{
+  "name": "gitstats",
+  "version": "1.0.0",
+  "description": "A technical audition for Netflix based on the document at https://docs.google.com/document/d/1FieHUPkekxqxmiZ0f2m925Wwkli_tj2s9MnTntOW1i4",
+  "main": "gitstats.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tech",
+    "demo",
+    "application",
+    "interview",
+    "prototype"
+  ],
+  "author": "Robin Atwood",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cli": "^1.0.1",
+    "commander": "^2.11.0",
+    "github": "^12.0.3",
+    "math": "^0.0.3",
+    "node-rest-client": "^3.1.0",
+    "octonode": "^0.9.1"
+  }
+}
